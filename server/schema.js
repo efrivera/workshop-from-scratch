@@ -34,10 +34,12 @@ const schema = makeExecutableSchema({
         },
         {
           id: 456,
-          name: 'Carlos Salinas',
+          name: 'Carlos',
           email: 'carlos@zemoga.com',
+          lastName: 'Salinas',
         },
         {
+          id: 789,
           name: 'Pedro',
           email: 'pepito@zemoga.com',
           lastName: 'Fernandez',
