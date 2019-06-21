@@ -8,7 +8,7 @@ const habdleClick = () => {
 const Home = () => {
   return (
     <div>
-      <h1>Welcome!</h1>
+      <h1>Welcome Edin!</h1>
       <Button variant="contained" color="primary" onClick={habdleClick}>
         Hola click
       </Button>
