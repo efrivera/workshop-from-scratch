@@ -9,7 +9,7 @@ const POSTS = [
   {
     title: 'My post 2',
     description: 'Maecenas interdum suscipit libero sed ultrices. Nulla facilisi. Nulla tincidunt, sapien nec iaculis pulvinar, mauris mi dapibus neque, eget consectetur augue urna in eros. Aliquam consectetur vitae leo et mattis. Nullam convallis laoreet mauris quis consequat. Aenean bibendum, nisl id convallis volutpat, tortor est commodo turpis, sagittis malesuada velit nulla ac neque. Cras nec pulvinar sapien, sit amet ultricies arcu. Vestibulum non commodo urna. Fusce dui ante, bibendum sit amet efficitur sed, volutpat id nisi. In risus nisl, egestas in tempor dictum, condimentum id ipsum. Vivamus dignissim magna a lorem lobortis, non sollicitudin sem finibus. Ut eu augue condimentum, elementum metus eu, finibus orci. Pellentesque blandit efficitur odio non accumsan.',
-    favorite: false,
+    favorite: true,
   },
   {
     title: 'My post 3',

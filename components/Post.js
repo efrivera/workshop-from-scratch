@@ -26,8 +26,11 @@ const Post = ({
         }}
       >
         <CardContent>
-          {favorite && <FavoriteIcon />}
-          <Typography variant="h3">{title}</Typography>
+          
+          <Typography variant="h3">
+            {title}
+            {favorite && <FavoriteIcon color="error" />}
+          </Typography>
           <p>{description}</p>
           <Button variant="contained" color="primary" onClick={handleClick}>Delete</Button>
         </CardContent>
