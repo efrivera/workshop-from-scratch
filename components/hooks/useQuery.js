@@ -33,7 +33,7 @@ const useQuery = (gqlQuery, opts = {}) => {
     data,
     loading,
     error,
-  }
+  };
 };
 
 export default useQuery;
